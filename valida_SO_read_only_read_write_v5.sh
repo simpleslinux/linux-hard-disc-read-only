@@ -2,7 +2,6 @@
 # read-only.sh - valida se os discos estão em read-only ou read-write
 #
 # Autor:      Herminio
-# Manutencao: SRE-Linux
 #
 
 # Obtém informações sobre os pontos de montagem
