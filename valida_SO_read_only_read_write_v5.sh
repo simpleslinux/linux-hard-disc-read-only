@@ -1,7 +1,7 @@
 #!/bin/bash
 # read-only.sh - valida se os discos estão em read-only ou read-write
 #
-# Autor:      Herminio
+# Autor: https://www.linkedin.com/in/luiz-costa-710810a0/
 #
 
 # Obtém informações sobre os pontos de montagem
